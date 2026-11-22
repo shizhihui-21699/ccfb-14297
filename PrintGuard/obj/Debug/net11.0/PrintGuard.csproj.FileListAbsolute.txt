@@ -1,0 +1,17 @@
+/Users/shizhihui/ccfb/runs/14297/workspace/PrintGuard/obj/Debug/net11.0/PrintGuard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shizhihui/ccfb/runs/14297/workspace/PrintGuard/obj/Debug/net11.0/PrintGuard.AssemblyInfoInputs.cache
+/Users/shizhihui/ccfb/runs/14297/workspace/PrintGuard/obj/Debug/net11.0/PrintGuard.AssemblyInfo.cs
+/Users/shizhihui/ccfb/runs/14297/workspace/PrintGuard/obj/Debug/net11.0/PrintGuard.csproj.CoreCompileInputs.cache
+/Users/shizhihui/ccfb/runs/14297/workspace/PrintGuard/obj/Debug/net11.0/PrintGuard.sourcelink.json
+/Users/shizhihui/ccfb/runs/14297/workspace/PrintGuard/bin/Debug/net11.0/printguard
+/Users/shizhihui/ccfb/runs/14297/workspace/PrintGuard/bin/Debug/net11.0/printguard.deps.json
+/Users/shizhihui/ccfb/runs/14297/workspace/PrintGuard/bin/Debug/net11.0/printguard.runtimeconfig.json
+/Users/shizhihui/ccfb/runs/14297/workspace/PrintGuard/bin/Debug/net11.0/printguard.runtimeconfig.dev.json
+/Users/shizhihui/ccfb/runs/14297/workspace/PrintGuard/bin/Debug/net11.0/printguard.dll
+/Users/shizhihui/ccfb/runs/14297/workspace/PrintGuard/bin/Debug/net11.0/printguard.pdb
+/Users/shizhihui/ccfb/runs/14297/workspace/PrintGuard/obj/Debug/net11.0/printguard.dll
+/Users/shizhihui/ccfb/runs/14297/workspace/PrintGuard/obj/Debug/net11.0/refint/printguard.dll
+/Users/shizhihui/ccfb/runs/14297/workspace/PrintGuard/obj/Debug/net11.0/printguard.pdb
+/Users/shizhihui/ccfb/runs/14297/workspace/PrintGuard/obj/Debug/net11.0/PrintGuard.genruntimeconfig.cache
+/Users/shizhihui/ccfb/runs/14297/workspace/PrintGuard/obj/Debug/net11.0/ref/printguard.dll
+/Users/shizhihui/ccfb/runs/14297/workspace/PrintGuard/obj/Debug/net11.0/PrintGuard.csproj.Up2Date
